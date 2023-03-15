@@ -1,0 +1,10 @@
+<?php
+
+namespace #policyPath;
+
+use TursunboyevJahongir\LaravelApi\Policies\CorePolicy;
+
+class #ClassNamePolicy extends CorePolicy
+{
+    protected string $name = '#nameSingular';
+}

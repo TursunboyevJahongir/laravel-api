@@ -1,0 +1,21 @@
+{
+    "name": "tursunboyevjahongir/laravel-api",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TursunboyevJahongir\\LaravelApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jahongir Tursunboyev",
+            "email": "jah6332@gmail.com"
+        },
+        {
+            "name": "Nizomiddin Zaripov",
+            "email": "nizomiddinzaripov@yandex.com"
+        }
+    ],
+    "require": {}
+}
